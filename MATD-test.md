@@ -8,7 +8,7 @@ Thank you for taking the time to do the Microlise ATD test. Experts in mobile as
 We would like you to take a look at the Microlise website. You can find it here: 
 http://www.microlise.com/
 
-Using a test framework of your choice, in C#, write three tests that you think provide the best coverage of any functionality from the abobe website that is possible in 3 tests. 
+Using a test framework of your choice, in C#, write three tests that you think provide the best coverage of any functionality from the above website that is possible in 3 tests. 
 
 If you have any questions regarding this test, please raise an issue against this repo, and one of the team will answer your query as soon as possible.
 
