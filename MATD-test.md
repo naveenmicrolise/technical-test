@@ -10,7 +10,7 @@ http://www.microlise.com/
 
 Using a test framework of your choice, in C#, write three tests that you think provide the best coverage of *Advanced Search* functionality that can be found at the bottom the *Resources* page of the above website. 
 
-If you have any questions regarding this test, please raise an issue against this repo, and one of the team will answer your query as soon as possible.
+If you have any questions regarding this test, please raise an issue against this repo, and one of the team member will answer your query as soon as possible.
 
 **When assessing your test we will take the following things into account:**
 
