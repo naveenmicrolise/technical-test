@@ -18,7 +18,7 @@ If you have any questions regarding this test, please raise an issue against thi
 2. Code quality
 3. Code clarity
 4. Wording of your tests
-5. How easily we can run the tests
+5. How easily we can run the tests 
 6. Documentation
 
 If you are invited for an interview then you will be required to walk the interviewers through your code and you may be required to make some modifications to your framework as part of the interview.
