@@ -12,7 +12,7 @@ Using a test framework of your choice, in C#, write three tests that you think p
 
 If you have any questions regarding this test, please raise an issue against this repo, and one of the team will answer your query as soon as possible.
 
-When assessing your test we will take the following things into account:
+*When assessing your test we will take the following things into account:*
 
 1. Design of your framework
 2. Code quality
