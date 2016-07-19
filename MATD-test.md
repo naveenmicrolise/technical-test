@@ -14,12 +14,12 @@ If you have any questions regarding this test, please raise an issue against thi
 
 When assessing your test we will take the following things into account:
 
-Design of your framework
-Code quality
-Code clarity
-Wording of your tests
-How easily we can run the tests
-Documentation
+-Design of your framework
+-Code quality
+-Code clarity
+-Wording of your tests
+-How easily we can run the tests
+-Documentation
 
 If you are invited for an interview then you will be required to walk the interviewers through your code and you may be required to make some modifications to your framework as part of the interview.
 
