@@ -29,7 +29,7 @@ We would prefer that you use C# because at Microlise we use C# in building test 
 
 ##Test frameworks
 
-The most common style of test framework that we use is BDD(cucumber). Bonus points if you use these.
+The most common style of test framework that we use is BDD(cucumber). Bonus points if you use this.
 
 ##Documentation
 
