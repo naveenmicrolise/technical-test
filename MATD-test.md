@@ -25,13 +25,11 @@ If you are invited for an interview then you will be required to walk the interv
 
 ##Languages
 
-You may use any language of your choice. We would prefer that you use a language that will help you show off your skills in building test automation frameworks, rather than one that you are unfamiliar with.
-
-The language we use at Microlise for test automation is C# and javascript.
+We would prefer that you use C# because at Microlise we use C# in building test automation frameworks.
 
 ##Test frameworks
 
-The two most common styles of test framework that we use are Specification by Example(rspec) and BDD(cucumber). Bonus points if you use these.
+The most common style of test framework that we use is BDD(cucumber). Bonus points if you use these.
 
 ##Documentation
 
@@ -39,4 +37,4 @@ You should provide complete instructions on how to run your tests, and note any 
 
 ##Submission
 
-Create a public repository on github with your code and send us the link.
+Create a public repository on github with your code and send us the link OR you can use onedrive, google drive etc. to send us your code and instructions.
